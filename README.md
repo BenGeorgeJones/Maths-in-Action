@@ -16,4 +16,4 @@ There are 4 files that constitute the main code of the project:
 These are heavily commented and each come with their own summary at the top.
 
 There is also an additional file called GameCode.ipynb that I wrote for the
-implementation of the games Connect 4 and noughts and crosses into python
+implementation of the games Connect 4 and noughts and crosses into Python
