@@ -15,6 +15,7 @@ There are 4 files that constitute the main code of the project:
 2) ImprovedNeuralNetworks.ipynb  (This makes NeuralNetworks.ipynb obsolete)
 3) ReinforcementLearning.ipynb
 4) ImprovedReinforcementLearning.ipynb  (This makes ReinforcementLearning.ipynb obsolete)
+
 These are heavily commented and each come with their own summary at the top.
 
 There is also an additional file called GameCode.ipynb that I wrote for the
