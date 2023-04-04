@@ -5,8 +5,10 @@ The most important file to look through is Results.ipynb.
 This shows off all of the results and statistics obtained for the report,
 as well as game-play between trained networks for Connect 4 and noughts and crosses.
 
-The file GameReplays.ipynb shows off some extra game-play between network,
-although most of these games are found in Results.ipynb. 
+The file GameReplays.ipynb shows off some extra game-play between networks,
+although most of these games are found in Results.ipynb. If the videos can't be
+played in GitHub then feel free to directly access them from the Replays folder and 
+see the corresponding README.txt file found in Replays for brief explanations of each them.
 
 There are 4 files that constitute the main code of the project:
 1) NeuralNetworks.ipynb
